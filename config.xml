@@ -22,7 +22,7 @@
 	
 				
 	
-<!--
+
 	<engines>
     <engine name="cordova" version=">=4.0.0" />
   	</engines>
@@ -31,5 +31,4 @@
 	
 	<!-- Optional splash screen image, e.g.: -->
 	<!-- <gap:splash src="splash.png" width="1024" height="768" /> -->
--->
 </widget>
