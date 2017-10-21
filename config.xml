@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<widget xmlns="http://www.w3.org/ns/widgets" xmlns:gap="http://phonegap.com/ns/1.0" id="com.rikta.slike" version="1">
+
+	<name>Sultana\a</name>
+	<description>Zivot moj, zivot tvoj</description>
+	<author email="proxturt@gmail.com">Pr0xY</author>
+
+  <preference name="permissions" value="none"/>
+	<preference name="android-targetSdkVersion" value="21" />
+
+	<preference name="orientation" value="portrait" />
+	<preference name="fullscreen" value="true" />
+	<preference name="android-minSdkVersion" value="21" />
+
+</widget>
