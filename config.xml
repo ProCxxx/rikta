@@ -5,7 +5,9 @@
 
 	<description></description>
 	<author email="proxturt@gmail.com">Pr0xY</author>
-
+	
+	<icon src="icon-128.png" width="128" height="128" />
+	<icon src="icon-256.png" width="256" height="256" gap:role="default" />
 	
 	<preference name="permissions" value="none"/>
 	<preference name="android-targetSdkVersion" value="21" />
